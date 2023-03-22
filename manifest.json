@@ -1,4 +1,8 @@
 {
+ "background_color": "#FFFFFF",
+ "name": "CEKN",
+ "start_url": "index.htm?installed=true",
+ "display": "fullscreen",
  "icons": [
   {
    "type": "image/png",
@@ -36,9 +40,5 @@
    "src": "misc/icon64.png"
   }
  ],
- "theme_color": "#FFFFFF",
- "name": "CEKN",
- "display": "fullscreen",
- "start_url": "index.htm?installed=true",
- "background_color": "#FFFFFF"
+ "theme_color": "#FFFFFF"
 }
